@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f4d28cd-d2e8-41dd-a79a-d07429edeb15" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/basic/ch4/Complex.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/basic/ch4/Student.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/opt/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="/opt/apache-maven-3.8.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26AivJQoRCln2k9fSo89TPsH9Iz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="basic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Check">
+    <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.Ch3.Check" />
+      <module name="Java_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exception.Ch3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exp12_3.Demo" />
+      <module name="Java_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exp12_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo_IF_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interface.Practice_2.Demo_IF_2" />
+      <module name="Final_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interface.Practice_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.Practice_1.Test" />
+      <module name="Final_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exception.Practice_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch2_demo_1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ch1.ch2.ch2_demo_1" />
+      <module name="Java_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.ch1.ch2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exp12_2.demo" />
+      <module name="Java_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exp12_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Check" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Demo_IF_2" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f4d28cd-d2e8-41dd-a79a-d07429edeb15" name="Changes" comment="" />
+      <created>1646873021875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646873021875</updated>
+      <workItem from="1646873023334" duration="4056000" />
+      <workItem from="1646989384782" duration="662000" />
+      <workItem from="1646996384427" duration="822000" />
+      <workItem from="1647086608656" duration="864000" />
+      <workItem from="1647138546674" duration="246000" />
+      <workItem from="1647152667362" duration="4059000" />
+      <workItem from="1647174227136" duration="1218000" />
+      <workItem from="1647180539734" duration="4166000" />
+      <workItem from="1647261457990" duration="5380000" />
+      <workItem from="1647311198054" duration="33000" />
+      <workItem from="1647515923152" duration="4126000" />
+      <workItem from="1647520073930" duration="3107000" />
+      <workItem from="1647690793157" duration="1290000" />
+      <workItem from="1647843900118" duration="2121000" />
+      <workItem from="1647861076222" duration="17654000" />
+      <workItem from="1647924285226" duration="174000" />
+      <workItem from="1648103474806" duration="2036000" />
+      <workItem from="1648475216084" duration="4965000" />
+      <workItem from="1648641781798" duration="10537000" />
+      <workItem from="1648691416853" duration="1235000" />
+      <workItem from="1648727931067" duration="4529000" />
+      <workItem from="1648732608104" duration="2135000" />
+      <workItem from="1648739708433" duration="597000" />
+      <workItem from="1649384997289" duration="2040000" />
+      <workItem from="1649477527835" duration="894000" />
+      <workItem from="1649659780054" duration="2665000" />
+      <workItem from="1649675144486" duration="37157000" />
+      <workItem from="1649771736602" duration="2642000" />
+      <workItem from="1649775272627" duration="171000" />
+      <workItem from="1649820203285" duration="6972000" />
+      <workItem from="1649837977694" duration="296000" />
+      <workItem from="1650196361562" duration="76000" />
+      <workItem from="1650365242507" duration="3604000" />
+      <workItem from="1650455773665" duration="3357000" />
+      <workItem from="1650702347893" duration="5383000" />
+      <workItem from="1650969285590" duration="847000" />
+      <workItem from="1651048418354" duration="588000" />
+      <workItem from="1651049019415" duration="3085000" />
+      <workItem from="1651885499873" duration="4135000" />
+      <workItem from="1651890025785" duration="10019000" />
+      <workItem from="1652078877786" duration="3536000" />
+      <workItem from="1652086674899" duration="4584000" />
+      <workItem from="1652099331363" duration="133000" />
+      <workItem from="1652431644636" duration="73000" />
+      <workItem from="1652432052502" duration="221000" />
+      <workItem from="1652433125906" duration="22000" />
+      <workItem from="1652517592809" duration="24000" />
+      <workItem from="1652517657186" duration="3666000" />
+      <workItem from="1652687004636" duration="10704000" />
+      <workItem from="1652834587121" duration="31000" />
+      <workItem from="1652834978878" duration="1885000" />
+      <workItem from="1652837065497" duration="5031000" />
+      <workItem from="1652924358225" duration="4548000" />
+      <workItem from="1652942042364" duration="3769000" />
+      <workItem from="1653118049661" duration="599000" />
+      <workItem from="1653203671550" duration="3889000" />
+      <workItem from="1653207696109" duration="5230000" />
+      <workItem from="1653241154479" duration="128000" />
+      <workItem from="1653271614592" duration="2538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exp9_1/Car.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
